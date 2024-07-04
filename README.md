@@ -30,7 +30,6 @@
 
 ### 5. Deploy
 - Prepare your application for deployment
-  ```bash
   
 - Deploy your Next.js application on a cloud service or VPS
   - Configure Nginx or Apache as a reverse proxy for your Next.js app (for this project i used Nginx)
@@ -39,8 +38,7 @@
 ### 6. Monitor
 - Set up monitoring tools to keep track of your application's performance and availability
   - Use tools like Datadog, PM2, New or Relic for monitoring (for this project i used datadog)
-  ```bash
-
+  - 
 ### 7. Test
 - Perform thorough testing to ensure your SSR implementation works correctly
   - Unit tests, integration tests, and end-to-end tests
