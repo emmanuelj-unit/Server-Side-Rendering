@@ -1,6 +1,3 @@
-# Server-Side-Rendering
-
-
 ## How To Master Server-Side Rendering with Next.js on Ubuntu
 
 ### Introduction
